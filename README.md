@@ -1,5 +1,5 @@
 # RH-CT_0_Issue-tracker
-Welcome to the Renaisanse-Heroes Bugtracker!
+# Welcome to the Renaisanse-Heroes Bugtracker!
 
 Before reporting any issue:
 
