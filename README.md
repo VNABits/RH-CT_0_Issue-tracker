@@ -4,6 +4,8 @@
 Before reporting any issue:
 
 TODO: Add text here
+-- Direct link:
+https://github.com/VNABits/RH-CT_0_Issue-tracker/issues
 
 Issue reporting
 
